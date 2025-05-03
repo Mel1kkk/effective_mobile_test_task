@@ -1,0 +1,4 @@
+enum FavouriteSortType {
+  az,
+  za,
+}
